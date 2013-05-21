@@ -1,4 +1,4 @@
-# SkyDrive Puppet Module for Boxen
+# SkyDrive Puppet Module for Boxen [![Build Status](https://travis-ci.org/blackjid/puppet-skydrive.png)](https://travis-ci.org/blackjid/puppet-skydrive)
 
 Install [SkyDrive](http://skydrive.live.com), an easy way to share files the MS way
 on Mac OS X.
